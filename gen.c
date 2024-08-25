@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 static int amount = 10; //change this value.
-static unsigned long seed = 5489UL; //seed, change it.
+static unsigned long seed = 5591UL; //seed, change it.
 
 typedef struct {
     uint32_t mt[624];
